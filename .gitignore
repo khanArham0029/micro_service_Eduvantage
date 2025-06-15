@@ -1,0 +1,22 @@
+# Ignore virtual environment
+pdfparse/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code and editor settings (optional)
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+
+# Environment files (optional)
+.env
+*.env
+
+# Logs and cache
+*.log
+.cache/
